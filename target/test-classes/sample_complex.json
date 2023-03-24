@@ -1,0 +1,62 @@
+{
+	"items": {
+		"item": [
+			{
+				"id": "0002",
+				"type": "Cupcake",
+				"name": "Cake",
+				"ppu": 0.66,
+				"batters": {
+					"batter": [
+						{
+							"id": "1002",
+							"type": "Regular"
+						},
+						{
+							"id": "1010",
+							"type": "Apple"
+						},
+						{
+							"id": "1011",
+							"type": "Blackberry"
+						},
+						{
+							"id": "1012",
+							"type": "Angel's Food"
+						}
+					]
+				},
+				"topping": [
+					{
+						"id": "5002",
+						"type": "Sprinkle"
+					},
+					{
+						"id": "5003",
+						"type": "Mango"
+					},
+					{
+						"id": "5006",
+						"type": "Orange"
+					},
+					{
+						"id": "5007",
+						"type": "Sugar"
+					},
+					{
+						"id": "5008",
+						"type": "Chocolate"
+					},
+					{
+						"id": "5009",
+						"type": "Strawberry"
+					},
+					{
+						"id": "5010",
+						"type": "Grapes"
+					}
+				]
+			}
+		]
+	}
+}
